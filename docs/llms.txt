@@ -1,10 +1,10 @@
 # DiscordObhod
 
-DiscordObhod чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут.
+Новая версия с поддержкой Discord в текущих условиях. Стабильнее, надежнее, быстрее
 
 DiscordObhod чинит обрыв до голосовых серверов Discord. Распаковали архив, запустили .bat от администратора — звонки снова идут. обход блокировки Discord, Discord не подключается, Discord connecting исправить, голосовой чат Discord не работает. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/TremorSteersmanPier/DiscordObhod/releases/latest
-Код: https://github.com/TremorSteersmanPier/DiscordObhod
+Релиз: https://github.com/tremorsteersmanpier/DiscordObhod/releases/latest
+Код: https://github.com/tremorsteersmanpier/DiscordObhod
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/TremorSteersmanPier/DiscordObhod
+Страница: https://github.com/tremorsteersmanpier/DiscordObhod
